@@ -1,1 +1,1 @@
-create text.txt file
+cr text.txt file
